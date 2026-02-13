@@ -4,11 +4,11 @@
 
 Taller de Introducción a la robótica aplicada al trabajo Lab 4 - Piso: 3 - Centro de Simulación (25 de mayo 444)
 
-![Screenshot del Primer Ejercicio](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot del Primer Ejercicio](ejercicio01.png)
 
-![Screenshot del Segundo Ejercicio](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot del Segundo Ejercicio](ejercicio02.jpeg)
 
-![Screenshot del Tercer Ejercicio](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot del Tercer Ejercicio](ejercicio03.png)
 
 > [!NOTE]
 > Realizado con Arduino 2.
