@@ -10,9 +10,14 @@ Taller de Introducción a la robótica aplicada al trabajo Lab 4 - Piso: 3 - Cen
 
 ![Screenshot del Tercer Ejercicio](ejercicio03.png)
 
+- [x] Ir al Taller Presencial
+- [x] Realizar los ejercicios propuestos
+- [x] Firmar el formulario online para el certificado
+- [x] Ir a comer
+- [x] Volver a casa y subir los archivos al repositorio de Github
+
 > [!NOTE]
 > Realizado con Arduino 2.
->
+
 > [!TIP]
-> Para correr el codigo, es necesario tener instalado en la computadora Arduino 2. Se puede descargar en [Sitio Web Arduino](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing/)
->
+> Para correr el codigo, es necesario tener instalado en la computadora Arduino 2. Se puede descargar en [Sitio Web Arduino](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing/).
